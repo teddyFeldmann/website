@@ -25,29 +25,46 @@ const Home = () => {
             </p>
             <p>
               Tweeting about mining, America, and my views on the world{" "}
-              <a href="https://twitter.com/teddyfeld" target="_blank">
+              <a
+                href="https://twitter.com/teddyfeld"
+                target="_blank"
+                rel="noreferrer"
+              >
                 here
               </a>
               , and writing about them soon at{" "}
-              <a href="https://www.americanaegis.us" target="_blank">
+              <a
+                href="https://www.americanaegis.us"
+                target="_blank"
+                rel="noreferrer"
+              >
                 American Aegis
               </a>
               .
             </p>
             <p>
               Reach out to me on{" "}
-              <a href="https://twitter.com/teddyfeld" target="_blank">
+              <a
+                href="https://twitter.com/teddyfeld"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Twitter
               </a>
               ,{" "}
               <a
                 href="https://www.linkedin.com/in/teddyfeldmann/"
                 target="_blank"
+                rel="noreferrer"
               >
                 LinkedIn
               </a>
               , or{" "}
-              <a href="mailto:teddymfeldmann@gmail.com" target="_blank">
+              <a
+                href="mailto:teddymfeldmann@gmail.com"
+                target="_blank"
+                rel="noreferrer"
+              >
                 email
               </a>
               .
@@ -57,6 +74,6 @@ const Home = () => {
       </main>
     </div>
   );
-}
+};
 
-export default Home
+export default Home;
