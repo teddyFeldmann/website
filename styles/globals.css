@@ -1,0 +1,20 @@
+body {
+  font-family: "Trebuchet MS", "Helvetica", "Arial";
+  max-width: 600px;
+  margin: 40px;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
