@@ -35,7 +35,7 @@ const Home = () => {
               </a>
               , and writing about them on my newsletter,{" "}
               <a
-                href="https://www.itstimetomine.us"
+                href="https://www.itstimetomine.com"
                 target="_blank"
                 rel="noreferrer"
               >
