@@ -20,8 +20,9 @@ const Home = () => {
               Science.
             </p>
             <p>
-              Researching the mining and resource processing technologies
-              underpinning our transition to a net zero-carbon economy.
+              Researching the mining and processing technologies underpinning
+              our transition to a net zero-carbon economy and domestic resource
+              supply chains.
             </p>
             <p>
               Tweeting about mining, America, and my views on the world{" "}
