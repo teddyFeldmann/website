@@ -32,7 +32,7 @@ const Home = () => {
               >
                 here
               </a>
-              , and writing about them soon at{" "}
+              , and writing about them on my newsletter,{" "}
               <a
                 href="https://www.itstimetomine.us"
                 target="_blank"
