@@ -38,7 +38,7 @@ const Home = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                It's Time to Mine
+                It\'s Time to Mine
               </a>
               .
             </p>
