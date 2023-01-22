@@ -34,11 +34,11 @@ const Home = () => {
               </a>
               , and writing about them soon at{" "}
               <a
-                href="https://www.americanaegis.us"
+                href="https://www.itstimetomine.us"
                 target="_blank"
                 rel="noreferrer"
               >
-                American Aegis
+                It's Time to Mine
               </a>
               .
             </p>
